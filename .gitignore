@@ -1,0 +1,17 @@
+#Files/*
+Images/*
+#Include/*
+
+Include/*/*.mqh
+
+#Include/*
+
+Libraries/*
+Logs/*
+Presets/*
+Projects/*
+Scripts/*
+
+*.ex4
+*.csv
+*.csv#
